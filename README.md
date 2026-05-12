@@ -39,24 +39,4 @@ AgriTech_AI/
 │   ├── my_crop_model.pkl      # Crop Prediction Model
 │   └── price_model.pkl        # Cost Estimation Model
 └── requirements.txt           # Dependency List
-The system analyzes several critical parameters to provide recommendations:
 
-1.Nutrient Levels: Nitrogen (N), Phosphorus (P), and Potassium (K) measured in ppm.
-2.Soil Chemistry: pH balance monitoring (e.g., detecting acidic soil at 5.45 pH).
-3.Climate Factors: Real-time temperature and rainfall patterns.
-
-📝 Installation & Setup
-Clone the repository:
-
-Bash
-git clone [https://github.com/your-username/AgriTech-AI.git](https://github.com/your-username/AgriTech-AI.git)
-
-Install dependencies:
-Bash
-pip install -r requirements.txt
-Run the Application:
-
-Bash
-streamlit run main.py
-👨‍💻 Author
-Prateek Ranjan Final Year Project - 2026
