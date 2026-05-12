@@ -23,7 +23,7 @@ AgriTech AI is a comprehensive, data-driven agricultural decision-support system
 ## 📂 Project Structure
 
 The project follows a **Modular Architecture** for scalability and clean code management:
-
+```text
 AgriTech_AI/
 ├── main.py                    # Application Entry Point
 ├── Modules/                   # Core Logic
@@ -39,8 +39,6 @@ AgriTech_AI/
 │   ├── my_crop_model.pkl      # Crop Prediction Model
 │   └── price_model.pkl        # Cost Estimation Model
 └── requirements.txt           # Dependency List
-
-📊 AI Model & Data Analysis
 The system analyzes several critical parameters to provide recommendations:
 
 1.Nutrient Levels: Nitrogen (N), Phosphorus (P), and Potassium (K) measured in ppm.
