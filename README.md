@@ -23,20 +23,6 @@ AgriTech AI is a comprehensive, data-driven agricultural decision-support system
 ## 📂 Project Structure
 
 The project follows a **Modular Architecture** for scalability and clean code management:
-```text
-AgriTech_AI/
-├── main.py                    # Application Entry Point
-├── Modules/                   # Core Logic
-│   ├── auth_manager.py        # Security & Login
-│   ├── database.py            # SQLite CRUD Operations
-│   ├── report_generator.py    # PDF Generation Logic
-│   ├── weather_service.py     # API Integrations
-│   └── price_engine.py        # Financial AI Logic
-├── Intelligence_Pages/        # Dashboard Components
-│   ├── regional_intelligence.py
-│   └── weather_intelligence.py
-├── Models/                    # Pre-trained AI Models
-│   ├── my_crop_model.pkl      # Crop Prediction Model
-│   └── price_model.pkl        # Cost Estimation Model
-└── requirements.txt           # Dependency List
+<img width="599" height="290" alt="image" src="https://github.com/user-attachments/assets/92d5f9ee-a1ec-4ec5-9cc2-9fb075668fe1" />
+
 
